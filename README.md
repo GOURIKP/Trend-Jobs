@@ -31,5 +31,9 @@ TrendJobs is an AI-powered job market analysis tool that helps users find job op
 ## 📸 Results
 
 ![](https://github.com/GOURIKP/Trend-Jobs/blob/main/Dataset/images/Screenshot%202025-02-08%20231144.png)
+![](https://github.com/GOURIKP/Trend-Jobs/blob/main/Dataset/images/Screenshot%202025-02-08%20231210.png)
+![](https://github.com/GOURIKP/Trend-Jobs/blob/main/Dataset/images/Screenshot%202025-02-08%20231233.png)
+![](https://github.com/GOURIKP/Trend-Jobs/blob/main/Dataset/images/Screenshot%202025-02-08%20231248.png)
+![](https://github.com/GOURIKP/Trend-Jobs/blob/main/Dataset/images/Screenshot%202025-02-08%20231258.png)
 
 Below is the screenshot of the job recommendations and market trends analysis:
