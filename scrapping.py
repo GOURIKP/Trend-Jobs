@@ -4,8 +4,8 @@ from chromadb import Client
 from chromadb.config import Settings
 
 # Your SearchAPI key for Google Jobs
-API_KEY = "4knSJwhSxsnMLBgf79ntf1CY"
-URL = "https://www.searchapi.io/api/v1/search"  # API endpoint for job listings
+API_KEY = "SearchAPI"
+URL = "URL to SearchAPi"  # API endpoint for job listings
 
 # List of IT job titles you want to query
 job_titles = [
