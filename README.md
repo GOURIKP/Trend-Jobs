@@ -7,8 +7,8 @@ TrendJobs is an AI-powered job market analysis tool that helps users find job op
 
 ## 🚀 Features
 
--Job Recommendations: AI-generated job suggestions based on user input.
--Job Retrieval System: Uses FAISS to fetch relevant job listings.
--Market Trend Analysis: Visualizations for salary trends, job roles, and skill distribution.
--Interactive UI: Built with Streamlit for easy user interaction.
--Web Scraping: Job data is collected using web scraping techniques.
+-`Job Recommendations`: AI-generated job suggestions based on user input.
+-`Job Retrieval System`: Uses FAISS to fetch relevant job listings.
+-`Market Trend Analysis`: Visualizations for salary trends, job roles, and skill distribution.
+-`Interactive UI`: Built with Streamlit for easy user interaction.
+-`Web Scraping`: Job data is collected using web scraping techniques.
