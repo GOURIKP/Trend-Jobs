@@ -18,14 +18,14 @@ TrendJobs is an AI-powered job market analysis tool that helps users find job op
 **Programming Language**: Python
 
 **Frameworks & Libraries**:
-LLM: Groq (LLaMA 3 Model)
-Database: FAISS Index
-LangChain (LLM processing)
-SentenceTransformers (Embeddings)
-Streamlit (UI)
-FAISS (Job retrieval)
-Plotly & Matplotlib (Visualizations)
-Pandas & NumPy (Data processing)
+- LLM: Groq (LLaMA 3 Model)
+- Database: FAISS Index
+- LangChain (LLM processing)
+- SentenceTransformers (Embeddings)
+- Streamlit (UI)
+- FAISS (Job retrieval)
+- Plotly & Matplotlib (Visualizations)
+- Pandas & NumPy (Data processing)
 
 
 ## 📸 Results
