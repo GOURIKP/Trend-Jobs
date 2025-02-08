@@ -14,10 +14,10 @@ from langchain.prompts import PromptTemplate
 from sentence_transformers import SentenceTransformer
 
 # ---- CONFIG ---- #
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "GROQ_API_KEY"
 
 # ---- Load & Preprocess Data ---- #
-DATA_PATH = r"C:\Users\gouri\OneDrive\Desktop\PROJECTS\TrendJobs\processed_jobs_data.csv"
+DATA_PATH = r"path_to_dataset"
 df = pd.read_csv(DATA_PATH)
 
 # Load FAISS Index
